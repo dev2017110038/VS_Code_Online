@@ -1,0 +1,25 @@
+.navbar {
+    margin-bottom: 0px;
+}
+
+.navbar-brand {
+    display: flex;
+    padding: 10px 10px;
+}
+
+.navbar-brand img {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.navbar-brand p {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 0px 0px 0px;
+}
+
+.logo {
+    width: 30px;
+    height: 30px;
+    border-radius: 25px;
+}

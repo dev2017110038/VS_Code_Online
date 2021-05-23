@@ -1,0 +1,30 @@
+html {
+    height: 100%;
+}
+
+body {
+    width: 100%;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Bree Serif', serif;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+}
+
+footer {
+    position: sticky;
+    background-color: #000;
+    color: #fff;
+    font-size: 14px;
+}
+
+footer div p {
+    text-align: center;
+}
